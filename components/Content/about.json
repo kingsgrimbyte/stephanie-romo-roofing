@@ -1,0 +1,29 @@
+{
+  "metaTitle": "Roof Replacement & Repair in [location] | About Us",
+  "metaDescription": "Trusted roofing experts serving the [location] community with honest inspections, skilled repairs & replacements. Call for reliable service: [phone]",
+  "bannerQuote": "",
+  "bannerImage": "https://ik.imagekit.io/z6skgnupx/stephanieromoroofing_com/Roofing_Services_about_bannerImage_d38crzWXN.jpg",
+  "h1Banner": "Roof Replacement & Repair in [location] | About Us",
+  "p1Banner": "Trusted roofing experts serving the [location] community with honest inspections, skilled repairs & replacements. Call for reliable service: [phone]",
+  "p2": "Stephanie Romo Roofing began as a small, family-run trade business and has grown into a trusted local contractor focused on craftsmanship, clear communication, and long-lasting results. Our mission is to protect homes and businesses with durable roof replacements, precise repairs, and straightforward pricing you can count on. Based in [location], we prioritize safety, respect your property, and back our work with solid warranties and responsive service.",
+  "h2Image": "https://ik.imagekit.io/z6skgnupx/stephanieromoroofing_com/Roofing_Services_about_h2Image_YzeLGnvST.jpg",
+  "missionSection": [
+    {
+      "title": "Our Mission",
+      "description": "To deliver reliable, safe, and long-lasting roofing solutions built on transparency, skilled workmanship, and a genuine commitment to homeowner satisfaction."
+    },
+    {
+      "title": "Our Vision",
+      "description": "To be the go-to roofing partner for homeowners and businesses by blending proven techniques, high-quality materials, and attentive service that strengthens our local community."
+    },
+    {
+      "title": "Our Team",
+      "description": "Our crew brings decades of combined experience in shingle, metal, and flat roofing systems, storm repair, flashing, and gutter integration. Certified installers and trained project managers ensure each job is done right and on schedule."
+    }
+  ],
+  "areaweserveSection": {
+    "description": "We proudly provide roofing installation, repairs, inspections, storm restoration, emergency tarping, and gutter services across [location], serving homeowners, property managers, and contractors.",
+    "linkText": "Check our Roofing Service locations here.",
+    "link": "/locations"
+  }
+}
